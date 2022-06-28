@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "C Sharp\Circle.csproj", "{344E66FF-32CF-465D-8E9D-741B81A75DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{94EF53FE-C39E-466E-B658-5E7FEC7FA0C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{344E66FF-32CF-465D-8E9D-741B81A75DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344E66FF-32CF-465D-8E9D-741B81A75DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344E66FF-32CF-465D-8E9D-741B81A75DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344E66FF-32CF-465D-8E9D-741B81A75DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EF53FE-C39E-466E-B658-5E7FEC7FA0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EF53FE-C39E-466E-B658-5E7FEC7FA0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EF53FE-C39E-466E-B658-5E7FEC7FA0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EF53FE-C39E-466E-B658-5E7FEC7FA0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E11D9A1D-73F5-480D-8438-1EC47B87965A}
+	EndGlobalSection
+EndGlobal
